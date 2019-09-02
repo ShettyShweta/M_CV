@@ -1,0 +1,8 @@
+body
+{
+  background-image: url(C:\Users\1000259926\Desktop\Shweta\Work\WebD\Projects\Project2\attachments\photo\photo_background.jpg);
+  background-size:     cover;                      /* <------ */
+  background-repeat:   no-repeat;
+  background-position: 50% 50%;              /* optional, center the image */
+
+}

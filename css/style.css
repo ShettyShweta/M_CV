@@ -1,0 +1,39 @@
+body
+{
+
+  background-image: linear-gradient(black, grey);
+  color: white;
+  background-color: transparent;
+  background-size: cover;
+}
+hr
+{
+  border-color: pink;
+  border-style : solid none none;
+  border-height: 2px;
+  border-width: 2px;
+}
+
+
+a:link {
+  color: hotpink;
+
+}
+
+
+a:visited {
+  color: hotpink;
+
+}
+
+
+a:hover {
+  color: red;
+
+}
+
+
+a:active {
+  color: hotpink;
+
+}
